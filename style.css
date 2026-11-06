@@ -20,3 +20,17 @@ p{
      height: 30vh;
     background: red;
 }
+.search-box{
+    width: 20%;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    position: relative;
+    padding: 8px 10px 8px 40px;
+    font-size: 16px;
+}
+.search-icon{
+    width: 30px;
+    position: absolute;
+    right: 565px;
+}
