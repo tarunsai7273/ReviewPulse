@@ -1,0 +1,22 @@
+p{
+    color: white;
+}
+.search-content{
+    height: 10vh;
+    background: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.discover{
+     height: 20vh;
+    background: red;
+}
+.random-picks{
+     height: 40vh;
+    background: black;
+}
+.recently-viewed{
+     height: 30vh;
+    background: red;
+}
